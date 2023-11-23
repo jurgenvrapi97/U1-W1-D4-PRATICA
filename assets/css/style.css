@@ -64,6 +64,8 @@ main {
     background-color: white;
     padding-top: 10%;
     padding-left: 15px;
+    padding-bottom: 10%;
+    padding-right: 15px;
 }
 
 #creator {
@@ -148,13 +150,121 @@ iframe {
 }
 
 .box {
-    
+    padding-bottom: 5%;
     width: 390px;
     margin-top:30px;
     background-color: lightgrey;
 }
 
+#h1box{
+padding: 5%;
+text-align: center;
 
+}
+
+#h1box2{
+padding-left: 5%;
+padding-top: 5%;
+padding-bottom: 0;
+font-size: 1.2rem;
+color: blue;
+text-decoration: underline;
+
+}
+
+#pbox {
+
+padding: 5%;
+
+}
+
+#pbox2 {
+
+padding-left: 5%;
+
+}
+
+#pbox3 {
+   
+text-align: right;
+/* padding-left: 80%; */
+padding-right: 5%;
+
+}
+
+
+
+#form {
+
+height: 21px;
+
+}
+
+#mail{
+    border: none;
+    border-bottom: 1.5px dotted black;
+    margin-left: 20px;
+    height: 25px;
+}
+
+#iscriviti{
+    font-weight: 700;
+border: none;
+background-color: blue;
+color: white;
+height: 25px;
+
+}
+
+#art {
+    text-align: center;
+    margin-top: 25px;
+}
+
+footer div{
+    -webkit-box-shadow: 0px 10px 13px -7px #000000, 0px 2px 15px 5px rgba(0,0,0,0); 
+    box-shadow: 0px 10px 13px -7px #000000, 0px 2px 15px 5px rgba(0,0,0,0);
+    background: rgb(34, 195, 141);
+    background: linear-gradient(0deg, rgb(5, 59, 41) 0%, rgb(1, 80, 11) 100%);
+    padding: 10%;
+    
+}
+
+footer {
+
+margin-top: 10%;
+
+}
+
+footer p {
+
+    color: white;
+    text-align: center;
+    padding-bottom: 10%;
+}
+
+#color {
+    text-decoration: none;
+    background-color: lightgray;
+    border: 1px solid grey;
+    border-radius: 5%;
+}
+
+
+.rose {
+
+    text-decoration: none;
+    color: rgb(231, 127, 127);
+    font-weight: 700;
+}
+
+#blue {
+
+text-decoration: none;
+color: blue;
+font-weight: 700;
+
+}
 /* ELEMENTI NEL MAIN - ARTICLE */
 
 /* TABELLE */
