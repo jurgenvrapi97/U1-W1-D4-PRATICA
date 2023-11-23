@@ -1,0 +1,166 @@
+/* IMPOSTAZIONI GENERALI */
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;700;900&display=swap');
+body{
+    font-family: 'Poppins', sans-serif;
+    background-image: url(../img/sfondo.png);
+    padding: 15px;
+}
+h1{
+font-size: 2rem;
+font-weight: 700;
+padding-bottom: 30px;
+}
+/* HEADER */
+
+header {
+color: white;
+font-weight: 700;
+margin-bottom: 35px;
+
+}
+
+header div{
+    -webkit-box-shadow: 0px 10px 13px -7px #000000, 0px 2px 15px 5px rgba(0,0,0,0); 
+    box-shadow: 0px 10px 13px -7px #000000, 0px 2px 15px 5px rgba(0,0,0,0);
+    background: rgb(34,59,195);
+    background: linear-gradient(0deg, rgba(34,59,195,1) 0%, rgba(45,185,253,1) 100%);
+    padding: 10%;
+}
+
+header p {
+    font-size: 1.2rem;
+   text-align: center;
+    padding-top: 10px;            
+    margin-top: 20px;
+}
+
+header li {
+   text-align: center;
+    padding-top: 10px;        
+}
+
+header img{
+    width: 300px;
+    height: 100px;
+    display: block;
+ 
+}
+
+header ul {
+
+    margin-top: 20px;
+}
+
+header i {
+
+    margin: 7px;
+
+}
+/* MAIN */
+
+main {
+    -webkit-box-shadow: 0px 0px 8px 1px #000000; 
+    box-shadow: 0px 0px 8px 1px #000000;
+    background-color: white;
+    padding-top: 10%;
+    padding-left: 15px;
+}
+
+#creator {
+
+color: grey;
+
+}
+
+.pmain {
+
+margin-top: 20px;
+
+}
+
+main ul {
+
+    margin-top: 15px;
+    list-style: disc;
+    padding-left: 30px;
+    
+}
+
+main li {
+
+padding-left: 5px;
+margin: 7px;
+
+}
+
+main ol {
+
+    margin-top: 15px;
+    list-style: decimal;
+    padding-left: 30px;
+
+}
+
+label {
+    font-weight: 700;
+    display: block;
+    text-align: center;
+    margin-top: 15px ;
+    
+}
+
+table {
+    width: 390px;
+    display: block;
+    border-bottom: 3px solid blue;
+}
+
+th{
+    padding: 10%;
+    width: 390px;
+    background-color: blue;
+    color: white;
+    height: 50px;
+    border-right: 1px solid white;
+}
+
+tr {
+
+height: 25px;
+text-align: center;
+
+}
+
+td {padding: 10px;}
+
+.grey{
+
+    background-color:lightgray;
+    border-top: 1px solid grey;
+    border-bottom: 1px solid grey;
+}
+
+iframe {
+
+    margin-top: 25px;
+    border-radius: 25px;
+
+}
+
+.box {
+    
+    width: 390px;
+    margin-top:30px;
+    background-color: lightgrey;
+}
+
+
+/* ELEMENTI NEL MAIN - ARTICLE */
+
+/* TABELLE */
+
+/* FORM */
+
+/* ELEMENTI NELL' ASIDE */
+
+/* FOOTER */
